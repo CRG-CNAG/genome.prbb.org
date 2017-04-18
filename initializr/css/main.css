@@ -1,0 +1,636 @@
+/* ==========================================================================
+   HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
+   ========================================================================== */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+body {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+img {
+    vertical-align: middle;
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.chromeframe {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+
+/* ===== Initializr Styles ==================================================
+   Author: Jonathan Verrecchia - verekia.com/initializr/responsive-template
+   ========================================================================== */
+
+body {
+    font: 16px/26px Helvetica, Helvetica Neue, Arial;
+}
+
+.wrapper {
+    width: 90%;
+    margin: 0 5%;
+}
+
+/* ===================
+    ALL: Orange Theme
+   =================== */
+
+.header-container {
+    border-bottom: 10px solid #3E6386;
+    background-image: url("../img/bcn-skyline2.jpg");
+    height: 170px;
+}
+
+.footer-container,
+.main aside {
+    border-top: 20px solid #3E6386;
+}
+
+.footer-container,
+.main aside {
+    background: #89A6C3;
+}
+
+.main aside.seminars {
+    border-top: 0px;
+    margin-bottom: 2em;
+    text-align: center;
+    border: 2px solid #3E6386;
+}
+
+.main aside p a {
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+
+}
+
+.main aside p a:hover {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+.main aside.seminars a {
+	display: table-cell; 
+	color: #FFFFFF;
+	text-decoration: none;
+
+}
+
+.main aside.seminars a:hover {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+
+.title {
+    color: white;
+}
+
+.readmore {
+	font-size: 0.9em;
+	font-family: monospace;
+	text-decoration: underline;
+}
+
+
+/* ==============
+    MOBILE: Menu
+   ============== */
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    display: block;
+    margin-bottom: 10px;
+    padding: 15px 0;
+
+    text-align: left;
+    text-decoration: none;
+    font-weight: bold;
+
+    color: #3E6386;
+}
+
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* ==============
+    MOBILE: Main
+   ============== */
+
+.main {
+    padding: 30px 0;
+}
+
+.main article h1 {
+    font-size: 2em;
+}
+
+.main aside {
+    color: white;
+    padding: 0px 5% 10px;
+}
+
+.footer-container footer {
+    color: white;
+    padding: 20px 0;
+}
+
+/* ===============
+    ALL: IE Fixes
+   =============== */
+
+.ie7 .title {
+    padding-top: 20px;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+h2 a {
+	color: #3E6386;
+	text-decoration: none;
+}
+
+h2 a:hover {
+	text-decoration: underline;
+}
+
+
+section {
+	margin-bottom: 3em;
+
+}
+
+section h2 {
+	clear: left;
+	margin-bottom: 0em;
+}
+
+section .email {
+	padding: 0 0 0 0.3em;
+	margin: 0 0 0.5em 0;
+	font-size: 0.8em;
+	font-weight:bold;
+}
+
+section figure {
+	float: left;
+	margin-right: 1em;
+}
+
+section figure img {
+	width: 100px;
+}
+
+figcaption {
+	font-style: italic;
+	font-size: 0.8em;
+}
+
+
+section p {
+	text-align: justify;
+	clear: right;
+}
+
+section p.place {
+	width: auto;
+	float: right;
+	margin-top: 0em;
+	font-weight: bold;
+	font-size: 0.9em;
+	padding-left: 0.1em;
+	padding-bottom: 0.1em;
+	border-bottom: 1px solid #000000;
+}
+
+section p.place a {
+	text-decoration: none;
+	color: #000000;
+	padding: 0;
+	margin: 0;
+}
+
+section p.text {
+
+
+}
+
+.clearfix nav {
+	clear: left;
+	margin: 0 auto 1em auto;
+	float: left;
+	display: block;
+} 
+
+aside figure img {
+
+	display: block;
+	margin: 1em auto;
+	width: 225px;
+
+}
+
+aside figure figcaption {
+
+	text-align: center;
+	font-style: italic;
+	font-size: 0.7em;
+}
+
+aside figure figcaption a {
+
+	color: #FFFFFF;
+}
+
+footer h3 {
+	float: left;
+}
+
+footer .logos {
+
+	text-align: right;
+}
+
+footer .logos img {
+
+	width: 65px;
+	margin-left: 0.5em;
+	border: 0;
+}
+
+footer .extra {
+
+	font-size: 0.7em;
+	text-align: right;
+}
+
+footer .extra a {
+
+	color: #FFFFFF;
+
+}
+
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+@media only screen and (max-width: 1600px) {
+
+	.header-container {
+  	  background-image: url("../img/bcn-skyline2aa.jpg");
+	}
+
+}
+
+
+@media only screen and (max-width: 1280px) {
+
+	.header-container {
+  	  background-image: url("../img/bcn-skyline2a.jpg");
+	}
+
+}
+
+
+@media only screen and (max-width: 1024px) {
+
+	.header-container {
+  	  background-image: url("../img/bcn-skyline2m.jpg");
+	}
+
+}
+
+
+@media only screen and (max-width: 768px) {
+
+	aside figure img {
+		width: 200px;
+
+	}
+
+	footer .logos {
+
+		text-align: left;
+		clear: left;
+	}
+
+	.header-container {
+  	  background-image: url("../img/bcn-skyline3.jpg");
+	}
+
+}
+
+@media only screen and (max-width: 400px) {
+
+	.header-container {
+  	  background-image: url("../img/bcn-skyline4.jpg");
+	}
+
+	section p.place a {
+	   font-size: 0.75em;
+	}	
+
+}
+
+
+@media only screen and (min-width: 767px) {
+
+	.main aside.seminars {
+
+		padding-top: 0px;
+	}
+}
+
+
+@media only screen and (min-width: 480px) {
+
+/* ====================
+    INTERMEDIATE: Menu
+   ==================== */
+
+    nav a {
+        float: left;
+        width: 20%;
+        margin: 0 1.7%;
+        padding: 4px 2%;
+        margin-bottom: 0;
+	font-size: 0.9em;
+	text-align: left;
+    }
+
+
+
+/* ========================
+    INTERMEDIATE: IE Fixes
+   ======================== */
+
+    nav ul li {
+        display: inline;
+    }
+
+    .oldie nav a {
+        margin: 0 0.7%;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+
+/* ====================
+    WIDE: CSS3 Effects
+   ==================== */
+
+    .header-container,
+    .main aside {
+        -webkit-box-shadow: 0 5px 10px #aaa;
+           -moz-box-shadow: 0 5px 10px #aaa;
+                box-shadow: 0 5px 10px #aaa;
+    }
+
+/* ============
+    WIDE: Menu
+   ============ */
+
+    .title {
+        float: left;
+    }
+
+/**
+    nav {
+        float: right;
+        width: 38%;
+    }
+**/
+/* ============
+    WIDE: Main
+   ============ */
+
+    .main article {
+        float: left;
+        width: 57%;
+    }
+
+    .main aside {
+        float: right;
+        width: 28%;
+    }
+}
+
+@media only screen and (min-width: 1540px) {
+
+/* ===============
+    Maximal Width
+   =============== */
+
+    .wrapper {
+        width: 1426px; /* 1140px - 10% for margins */
+        margin: 0 auto;
+    }
+}
+
+
+@media only screen and (min-width: 1340px) and (max-width: 1539px) {
+
+/* ===============
+    Maximal Width
+   =============== */
+
+    .wrapper {
+        width: 1226px; /* 1140px - 10% for margins */
+        margin: 0 auto;
+    }
+}
+
+
+
+@media only screen and (min-width: 1140px) and (max-width: 1339px) {
+
+/* ===============
+    Maximal Width
+   =============== */
+
+    .wrapper {
+        width: 1026px; /* 1140px - 10% for margins */
+        margin: 0 auto;
+    }
+}
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+.ir {
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+    *text-indent: -9999px;
+}
+
+.ir:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 100%;
+}
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+/* ==========================================================================
+   Print styles
+   ========================================================================== */
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow:none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links for images, or javascript/internal links
+     */
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}

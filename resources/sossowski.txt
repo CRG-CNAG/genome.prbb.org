@@ -1,0 +1,6 @@
+@@ Stephan Ossowski
+@@ stephan.ossowski@crg.eu
+@@ Genomic and Epigenomic Variation in Disease, CRG
+@@ The focus of our group is the analysis of Next Generation Sequencing (NGS) data in order to detect genomic, genic and epigenomic variation related to disease or intolerance to specific treatments. We seek to develop analysis tools for related sequencing applications including genome re-sequencing and assembly, DNA methylation detection, transcriptome analysis and structural variant prediction. We further aim to incorporate all algorithms into a general analysis framework, allowing for quick adaptation to the challenges of coming sequencing technologies and approaches, e.g. single molecule sequencing, longer read length and further increased throughput. The direct and easy applicability of our framework to sequencing data produced at the CRG or freely available via sequencing read archives is of particular importance for us and we make use of our experience with NGS analysis in several collaborations with experimental groups working on both prokaryotes and eukaryotes.
+@@ http://pasteur.crg.es/portal/page/portal/Internet/02_Research/01_Programmes/05_Genes_and_Disease/06_Genomic_and_Epigenomic_Variation_in_Disease
+@@ Ossowski, Stephan

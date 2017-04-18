@@ -1,0 +1,6 @@
+@@ Roderic Guigó
+@@ roderic.guigo@crg.eu
+@@ Bioinformatics and Genomics, CRG
+@@ The overarching theme of the research in our group is the understanding of the information encoded in genomic sequences, and how this information is processed in the pathway leading from DNA to protein sequences. We are specficially interestes in RNA processsing and its genetic and epigenetic regulation.
+@@ http://big.crg.cat/bioinformatics_and_genomics
+@@ Guigó, Roderic

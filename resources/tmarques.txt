@@ -1,0 +1,6 @@
+@@ Thomas Marques
+@@ tomas.marques@upf.edu
+@@ Primate Genomics Lab, UPF
+@@ Our main line of research is centered in the discovery of the extent of genomic polymorphism within the great ape species. The goal is to create an integrated view of genome evolution by studying changes in the composition, frequency, size and location at every major branch-point of human divergence from other primates. The results our lines of research are aimed to assess the rate of genome variation in primate evolution, characterize regional deletions and copy-number expansions as well as determine the patterns of selection acting upon them and whether the diversity of these segments is consistent with other forms of genetic variation among humans and great apes.
+@@ http://bhusers.upf.edu/tmarques/
+@@ Marques, Thomas

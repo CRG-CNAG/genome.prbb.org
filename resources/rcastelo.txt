@@ -1,0 +1,6 @@
+@@ Robert Castelo
+@@ robert.castelo@upf.edu
+@@ Functional Genomics, UPF
+@@ The Functional Genomics Group is focused, broadly speaking, in the development of computational tools for a better understanding of biological mechanisms in the context of knowledge of whole genome structure. More concretely, we investigate ways in which microarray data can be integrated with sequence data in order to find regulatory binding sites of different kinds and approach the combinatorial control exerted by diverse regulatory mechanisms.
+@@ http://functionalgenomics.upf.edu/
+@@ Castelo, Robert

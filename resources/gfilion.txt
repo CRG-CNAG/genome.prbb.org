@@ -1,0 +1,6 @@
+@@ Guillaume Filion
+@@ guillaume.filion@crg.eu
+@@ Genome Architecture, CRG
+@@ The 20th century has been the triumph of genetics. However, we fully understand a mere 3% of the human genome - that is, the coding genome. More challenging is to understand how this tiny fraction is orchestrated by the much larger regulatory genome. What does the regulatory genome consist of? How does it encode information? How is it organized and how does it evolve? Contrary to the coding genome, the information of the regulatory genome is context-dependent. For example, the same promoter can have different levels of activity, the same enhancers can activate one gene or another, depending on available transcription factors and on the local chromatin marks. So the DNA sequence is not enough to understand the function of regulatory sequences. Our research lines focus on the influence of the chromatin context on transcription; and on the co-evolution between the genome and its chromatin context.
+@@ http://lab.thegrandlocus.com/
+@@ Filion, Guillaume

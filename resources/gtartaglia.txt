@@ -1,0 +1,8 @@
+@@ Gian Gaetano Tartaglia
+@@ gian.tartaglia@crg.eu
+@@ Gene Function and Evolution, CRG
+@@ Our research focuses on gene and proteins, since these are the molecules that enable, regulate and control all the chemical processes on which life depends. In order to function the large majority of RNAs and proteins need to fold into a specific three-dimensional structure. The wide variety of highly specific structures that results from protein folding, and which serves to bring functional groups into close proximity, has enabled living systems to develop astonishing diversity and selectivity in their underlying chemical processes by using a common set of just twenty building blocks, the amino acids.
+Most of our research activity focuses on the understanding of regulation of gene expression and on the prediction of the mechanisms of protein folding and aggregation through a combination of in vivo, in vitro and in silico studies.
+We are currently investigating the conditions under which specific cellular pathways become aberrant and give rise to pathologies. This project, that we call pathosome, involves the in silico prediction of changes in protein-protein and protein-gene interactions that impair cell viability and will have an experimental validation in vivo.
+@@ http://big.crg.cat/gene_function_and_evolution
+@@ Tartaglia, Gian Gaetano

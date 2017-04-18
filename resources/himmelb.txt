@@ -1,0 +1,6 @@
+@@ Heinz Himmelbauer
+@@ heinz.himmelbauer@crg.eu
+@@ Genomics unit, CRG
+@@ The scope of the Genomics Unit is to provide excellent, state-of-the-art services in the fields of microarray technology and next-generation sequencing. Furthermore, the Unit is dedicated to test, implement, and to develop new protocols (wet lab and bioinformatics) to advance the analysis of genes and genomes. Such work includes, for instance, the identification of biases in high-throughput sequencing data, and the development of robust procedures for the assembly of complex genomes as prerequisite to their annotation.
+@@ http://seq.crg.es
+@@ Himmelbauer, Heinz

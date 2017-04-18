@@ -1,0 +1,6 @@
+@@ Fyodor Kondrashov
+@@ fyodor.kondrashov@crg.eu
+@@ Evolutionary Genomics, CRG
+@@ We are currently a small laboratory mostly utilizing computational tools to invertigate questions of evolution on the molecular, cellular and organismal levels. At the same time we are actively developing an experimental venue of research, where we hope to be able to apply massive DNA sequencing technologies to ask simple questions on adaptation and selection in the field. We hope that our experimental efforts will supplement our theoretical and computational venues.
+@@ http://big.crg.cat/evolutionary_genomics
+@@ Kondrashov, Fyodor

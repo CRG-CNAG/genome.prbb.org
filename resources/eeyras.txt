@@ -1,0 +1,6 @@
+@@ Eduardo Eyras
+@@ eduardo.eyras@upf.edu
+@@ Regulatory Genomics, UPF
+@@ Our group focuses on the development of computational predictive models for the study of RNA biology. In particular, we are interested in the role of chromatin and non-coding RNAs in the regulation of splicing, and the relevance of these mechanisms in cancer.
+@@ http://regulatorygenomics.upf.edu/group
+@@ Eyras, Eduardo
