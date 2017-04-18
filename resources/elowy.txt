@@ -1,7 +1,0 @@
-@@ Ernesto Lowy
-@@ Ernesto.lowy@crg.eu
-@@ Bioinformatics core unit, CRG
-@@ The Bioinformatics Core Facility aims to provide researchers at CRG, PRBB, and other external institutions with services of consultation, data analysis and management, software development, and access to computing resources. As further important commitment, the core will periodically organize courses and workshops in order to train biologists on the implementation of the main bioinformatics tools in their research.
-The Unit is open to all researchers at the PRBB and also to external users anywhere in the world.
-@@ http://biocore.crg.eu
-@@ Lowy, Ernesto
