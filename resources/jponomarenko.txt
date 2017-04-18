@@ -1,0 +1,6 @@
+@@ Julia Ponomarenko
+@@ julia.ponomarenko@crg.eu
+@@ Bioinformatics Unit, CRG
+@@ We are the CRG Bioinformatics core facility that provides researchers at CRG-CNAG/PRBB and external organizations with services of consultation, planning NGS and other genomic experiments, NGS data processing, analysis and management, software and database development, bioinformatics training, and access to high-performance computing resources at CRG.
+@@ https://biocore.crg.eu
+@@ Ponomarenko, Julia
