@@ -1,0 +1,6 @@
+@@ Jochen Hecht
+@@ jochen.hecht@crg.eu
+@@ Genomics Unit, CRG
+@@ The CRG Genomics Core Facility was established in 2008 and currently supports microarray and next generation sequencing technologies. Since its foundation, the CRG has made significant investments in Genomics, including the purchase of several next generation sequencing instruments. Several high-throughput technologies have been implemented to assess differential expression, inter-individual genetic variation, microRNA discovery, genome sequencing, targeted resequencing, epigenetic profiling and identification of binding sites of DNA or RNA-associated proteins.
+@@ http://www.crg.eu/en/core/programmes-groups/genomics-unit
+@@ Hecht, Jochen
